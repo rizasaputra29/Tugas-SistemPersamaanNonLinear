@@ -1,14 +1,14 @@
 # Solver Sistem Persamaan Nonlinear
 
 ## Informasi Mahasiswa
-- **Nama**: [Nama Lengkap Anda]
+- **Nama**: Muhammad Riza Saputra
 - **NIM**: 21120123140117
-- **Mata Kuliah**: TSK21275 - Metode Numerik
+- **Mata Kuliah**: Metode Numerik B
 - **Program Studi**: Teknik Komputer
 - **Universitas**: Universitas Diponegoro
 
 ## Deskripsi
-Implementasi solver untuk sistem persamaan nonlinear menggunakan berbagai metode numerik. Program ini dibuat sebagai tugas praktikum Modul 6 - Sistem Persamaan Nonlinear.
+Implementasi solver untuk sistem persamaan nonlinear menggunakan berbagai metode numerik. Program ini dibuat sebagai Tugas Sistem Persamaan Nonlinear.
 
 ## Sistem Persamaan
 ```
