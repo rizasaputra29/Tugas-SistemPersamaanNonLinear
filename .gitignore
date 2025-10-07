@@ -1,0 +1,83 @@
+# ===== Python build files =====
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===== Virtual environment =====
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# ===== Distribution / packaging =====
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ===== Jupyter Notebook checkpoints =====
+.ipynb_checkpoints
+
+# ===== IDE and editor settings =====
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ===== System files =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs and temporary files =====
+*.log
+*.tmp
+*.bak
+*.swp
+*.orig
+
+# ===== Cache =====
+.cache/
+.pytest_cache/
+coverage/
+htmlcov/
+*.cover
+*.py,cover
+
+# ===== Compiled binary files =====
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+*.obj
+*.o
+
+# ===== Environment files =====
+.env
+.env.local
+.env.*.local
+
+# ===== Project-specific =====
+# Ignore dataset or test outputs
+*.csv
+*.txt
+*.json
+*.npy
+*.npz
+
+# ===== OS-generated files =====
+ehthumbs.db
+Icon?
